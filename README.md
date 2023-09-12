@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋,
+![WhatsApp Image 2023-09-12 at 23 15 34](https://github.com/kishorekmani/kishorekmani/assets/114010446/e4dc30bb-ac10-4b4b-bd1e-160fb7456f57)
 
-<!--
-**kishorekmani/kishorekmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Kishore**, a Pre-Final year student pursuing **Computer Science** from Panimalar Engineering College, Chennai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests: UI Design, Coding<br>
+Skills: Graphic Design, communication, problem-solving, intermediate coding knowledge<br>
+Member of: GDSC, Panimalar Student Development Community<br>
+
+- 🔭 I’m currently working with a team for an Hackathon
+- 🌱 I’m currently learning Flutter, Backend Technologies
+- 📫 How to reach me: search for "kishorekmani" on major social platforms (Instagram, Reddit, LinkedIn, Discord) 
+- 😄 Pronouns: He/Him
