@@ -4,11 +4,10 @@
 
 I'm **Kishore**, a Pre-Final year student pursuing **Computer Science** from Panimalar Engineering College, Chennai.
 
-Interests: UI Design, Coding<br>
+Interests: Data Science, Graphic Design, Low-Code Software Development<br>
 Skills: Graphic Design, communication, problem-solving, intermediate coding knowledge<br>
 Member of: GDSC, Panimalar Student Development Community<br>
 
-- 🔭 I’m currently working with a team for an Hackathon
-- 🌱 I’m currently learning Flutter, Backend Technologies
-- 📫 How to reach me: search for "kishorekmani" on major social platforms (Instagram, Reddit, LinkedIn, Discord) 
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on a project - AI Personal Finance Chatbot (would love for some guidance)
+- 🌱 I’m currently learning AWS, Backend Technologies
+- 📫 How to reach me: search for "kishorekmani" on major social platforms (Instagram, Reddit, LinkedIn, Discord)
